@@ -1,4 +1,3 @@
-<img width="700" alt="boilerplate-project-filemetadata" src="https://github.com/Riddhi43/boilerplate-project-filemetadata/assets/124187892/9c481248-c72e-474a-be6c-8c492f07c326">
 
 # File Metadata Microservice
 A simple microservice to receive metadata of a file that you upload. Hosted on Replit --> https://boilerplate-project-filemetadata.u2273114.repl.co/
